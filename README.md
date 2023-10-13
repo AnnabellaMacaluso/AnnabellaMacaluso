@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently finishing my Bachelors in Computer Engineering at UC San Diego
+- 📫 How to reach me: [Twitter](https://twitter.com/anna_macalus)
+- 😄 Pronouns: She/Her/Hers
