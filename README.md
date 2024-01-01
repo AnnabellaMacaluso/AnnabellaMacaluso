@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm currently working on my Masters in Intelligent Systems, Robotics & Control at UC San Diego
 - ✨ I completed my Bachelors in Computer Engineering at UC San Diego! Class of 2024
-- 🤔 I’m looking for PhD position starting Fall 2025.
-- 📫 How to reach me: [Twitter](https://twitter.com/anna_macalus) [Email](mailto:amacalus@ucsd.edu)
+- 🤔 I’m looking for a PhD position starting Fall 2025.
+- 📫 How to reach me: [Twitter](https://twitter.com/anna_macalus), [Email](mailto:amacalus@ucsd.edu)
 - 😄 Pronouns: She/Her/Hers
